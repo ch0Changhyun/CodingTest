@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ch0Changhyun/CodingTest/tree/master/2121-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ch0Changhyun/CodingTest/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/ch0Changhyun/CodingTest/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
