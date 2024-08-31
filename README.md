@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ch0Changhyun/CodingTest/tree/master/0441-arranging-coins) |
+| [1236-n-th-tribonacci-number](https://github.com/ch0Changhyun/CodingTest/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/ch0Changhyun/CodingTest/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ch0Changhyun/CodingTest/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ch0Changhyun/CodingTest/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
