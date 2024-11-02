@@ -1,11 +1,12 @@
+import java.io.*;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        
-        int N = scanner.nextInt(); // 카드의 개수
-        scanner.nextLine(); // 개행 문자 제거
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+        int N = Integer.parseInt(br.readLine()); // 카드의 개수
         
         Map<String, Integer> fruitCount = new HashMap<>();
         fruitCount.put("STRAWBERRY", 0);
@@ -14,17 +15,19 @@ public class Main {
         fruitCount.put("PLUM", 0);
         
         for (int i = 0; i < N; i++) {
-            String fruit = scanner.next();
-            int count = scanner.nextInt();
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            String fruit = st.nextToken();
+            int count = Integer.parseInt(st.nextToken());
             fruitCount.put(fruit, fruitCount.get(fruit) + count);
         }
         
-        scanner.close();
-        
         if (fruitCount.containsValue(5)) {
-            System.out.println("YES");
+            bw.write("YES");
         } else {
-            System.out.println("NO");
+            bw.write("NO");
         }
+        
+        br.close();
+        bw.close();
     }
 }
