@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ch0Changhyun/CodingTest/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/ch0Changhyun/CodingTest/tree/master/0747-min-cost-climbing-stairs) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ch0Changhyun/CodingTest/tree/master/1236-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
