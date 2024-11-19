@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ch0Changhyun/CodingTest/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/ch0Changhyun/CodingTest/tree/master/0747-min-cost-climbing-stairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ch0Changhyun/CodingTest/tree/master/0561-array-partition) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
 | ------- |
@@ -75,9 +77,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
