@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/ch0Changhyun/CodingTest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ch0Changhyun/CodingTest/tree/master/0561-array-partition) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ch0Changhyun/CodingTest/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ch0Changhyun/CodingTest/tree/master/0506-relative-ranks) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ch0Changhyun/CodingTest/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ch0Changhyun/CodingTest/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ch0Changhyun/CodingTest/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
